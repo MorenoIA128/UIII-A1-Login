@@ -33,7 +33,7 @@ class HomePage extends StatelessWidget {
                   FadeInUp(
                       duration: Duration(milliseconds: 1000),
                       child: Text(
-                        "Login",
+                        "Inicio de sesion",
                         style: TextStyle(color: Colors.white, fontSize: 35),
                       )),
                   SizedBox(
@@ -137,7 +137,7 @@ class HomePage extends StatelessWidget {
                             // ),
                             child: Center(
                               child: Text(
-                                "Login",
+                                "Iniciar sesion",
                                 style: TextStyle(
                                     color: Colors.white,
                                     fontWeight: FontWeight.bold,
